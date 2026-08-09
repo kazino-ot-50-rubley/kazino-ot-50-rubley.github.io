@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-ot-50-rubley.github.io
+Sitemap: https://kazino-ot-50-rubley.github.io/sitemap.xml
